@@ -1,5 +1,6 @@
 # Task Tracker
-## Run json-server in cmd `npm run server`
+## Run json-server in cmd 
+`npm run server`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
